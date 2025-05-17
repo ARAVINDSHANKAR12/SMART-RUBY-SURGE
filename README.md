@@ -82,7 +82,7 @@ streamlit run frontendollama.py
 After implementing and testing both methods:  
 - The **LangChain-based approach** is **more accurate, lightweight, and efficient**. It optimizes embedding retrieval, ensuring **faster and more relevant** results with minimal computational overhead. Ideal for **real-time AI applications** like chatbots and enterprise search.  
 - The **Non-LangChain approach** allows **greater flexibility** in document processing and vector search, making it suitable for **research projects** or cases requiring **customized AI retrieval pipelines**.  
-![Screenshot 2025-03-25 112432](https://github.com/user-attachments/assets/b1613b71-3acb-48c2-9e7d-a3b9d875c2c2)
+![image](https://github.com/user-attachments/assets/a6bdd336-b86e-427e-aa28-297cc02a8e8b)
 
 
 ![image](https://github.com/user-attachments/assets/38562ef7-9ea2-4f56-aae6-39211632fceb)
