@@ -87,4 +87,9 @@ After implementing and testing both methods:
 
 ![image](https://github.com/user-attachments/assets/38562ef7-9ea2-4f56-aae6-39211632fceb)
 
-  
+![image](https://github.com/user-attachments/assets/487e4153-8d86-4059-a550-c0d148a54407)
+
+![image](https://github.com/user-attachments/assets/8bcb918a-3082-49e0-b7f9-1ac251169b31)
+
+![image](https://github.com/user-attachments/assets/fc0680fb-33a1-4fd8-b871-5a3b43cda90f)
+
